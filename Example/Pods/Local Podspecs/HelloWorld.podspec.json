@@ -1,0 +1,22 @@
+{
+  "name": "HelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of HelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Amin/HelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amin": "amin_heidaryy@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/Amin/HelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HelloWorld/Classes/**/*"
+}
